@@ -59,13 +59,19 @@ Model-View-ViewModel (MVVM)
 
 ### Запуск | Вхід | Створення акаунту
 <p align="center">
-  <img src="![Screenshot_20230531_135237](https://github.com/prokop-prokop/ProkopChatApp/assets/101650964/28e30e2d-7c1a-4ac0-b334-3042bac90378)" width="300" />
-  <img src="![Screenshot_20230531_135252](https://github.com/prokop-prokop/ProkopChatApp/assets/101650964/c9bc6519-1f5e-4535-9b5f-73ee8169d591)" width="300" /> 
-  <img src="![Screenshot_20230531_135258](https://github.com/prokop-prokop/ProkopChatApp/assets/101650964/bedbd829-eb40-4055-bc08-1ae6fec351bc)" width="300" />
+  <img src="https://github.com/prokop-prokop/ProkopChatApp/blob/master/Screenshots/1.jpg?raw=true" width="300" />
+  <img src="https://github.com/prokop-prokop/ProkopChatApp/blob/master/Screenshots/2.jpg?raw=true" width="300" /> 
+  <img src="https://github.com/prokop-prokop/ProkopChatApp/blob/master/Screenshots/3.jpg?raw=true" width="300" /> 
 </p>
 
 ### Розпочаті чати | Чат | Пошук користувачів
-![Розпочаті чати](screenshots/screenshot4.png) | ![Чат](screenshots/screenshot5.png) | ![Пошук користувачів](screenshots/screenshot6.png)
+<p align="center">
+  <img src="https://github.com/prokop-prokop/ProkopChatApp/blob/master/Screenshots/4.jpg?raw=true" width="300" />
+  <img src="https://github.com/prokop-prokop/ProkopChatApp/blob/master/Screenshots/5.jpg?raw=true" width="300" /> 
+  <img src="https://github.com/prokop-prokop/ProkopChatApp/blob/master/Screenshots/6.jpg?raw=true" width="300" /> 
+</p>
 
 ### Налаштування акаунту
-![Налаштування акаунту](screenshots/screenshot7.png)
+<p align="left">
+  <img src="https://github.com/prokop-prokop/ProkopChatApp/blob/master/Screenshots/7.jpg?raw=true" width="300" />
+</p>
