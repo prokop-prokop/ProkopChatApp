@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067971483117",
+    "project_id": "prokopchatapp",
+    "storage_bucket": "prokopchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067971483117:android:5a2c7899588e232b41c3e4",
+        "android_client_info": {
+          "package_name": "com.example.prokopchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067971483117-2mnh5c8smt0n24a3lrulo1bgfun1td9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDu9gRRLElo0d5_Nkporh99dI83YfkAqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067971483117-2mnh5c8smt0n24a3lrulo1bgfun1td9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
